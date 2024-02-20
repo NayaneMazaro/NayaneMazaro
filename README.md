@@ -9,6 +9,7 @@
   🦄 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS, JS.
 </p>
 
-<p align="left">
   💌 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/nayanemazaro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-</p>
+
+
+
