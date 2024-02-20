@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**NayaneMazaro/NayaneMazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá, me chamo Nayane, tenho 23 anos e estou cursando o sétimo periodo do curso de Ciência da Computação.<br>
+  No momento estou em busca de uma oportunidade para estagiar nas áreas da programação, IA ou dados.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS, JS.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💌 encontre-me no: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayanemazaro/)https://www.linkedin.com/in/nayanemazaro/" alt="LinkedIn"/></a>
+</p>
+
