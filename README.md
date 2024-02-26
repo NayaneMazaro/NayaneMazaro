@@ -9,7 +9,11 @@
   🦄 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS, JS.
 </p>
 
-  💌 Por favor, encontre-me no [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayanemazaro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+  💌 Por favor, encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações: ⤵️ 
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayanemazaro/) 
   
+### Meus últimos projetos: 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NayaneMazaro&repo=Candy-Pong&show_owner=true)](https://github.com/NayaneMazaro/Candy-Pong)
 
 
