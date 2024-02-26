@@ -15,4 +15,4 @@
   
 ### Meus últimos projetos: 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NayaneMazaro&repo=Candy-Pong&show_owner=true)](https://github.com/NayaneMazaro/Candy-Pong)
