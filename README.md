@@ -17,4 +17,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NayaneMazaro&repo=Candy-Pong&show_owner=true)](https://github.com/NayaneMazaro/Candy-Pong)
 
-
+Jogo Pong, implementado na linguagem de programação Java e utilizando OpenGL.
