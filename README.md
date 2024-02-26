@@ -10,6 +10,7 @@
 </p>
 
   💌 Por favor, encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações: ⤵️ 
+  
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayanemazaro/) 
   
 ### Meus últimos projetos: 
