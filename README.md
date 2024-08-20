@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Nayane, tenho 23 anos e estou cursando o sétimo periodo do curso de Ciência da Computação na Anhembi Morumbi - Paulista.<br>
-  No momento estou em busca de uma oportunidade para estagiar nas áreas da programação, IA ou dados.
+  Olá, me chamo Nayane, tenho 23 anos e estou cursando o último periodo do curso de Ciência da Computação na Anhembi Morumbi - Paulista.<br>
+  Atualmente estou em busca de uma oportunidade como estagiária ou junior em desenvolvimento de software/web ou dados.
 </p>
 
 <p align="left">
