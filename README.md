@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS, JS.
+  🎯 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS, JS.
 </p>
 
   💌 Por favor, encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações: ⤵️ 
