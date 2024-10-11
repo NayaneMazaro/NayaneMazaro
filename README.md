@@ -6,14 +6,14 @@
 </p>
 
 <p align="left">
-  🎯 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS, JS.
+  🎯 Conhecimentos: Python, Java, SQL, C, HTML, JavaScript, CSS.
 </p>
 
   💌 Por favor, encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações: ⤵️ 
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayanemazaro/) 
   
-### Meus últimos projetos: 
+### Alguns projetos: 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NayaneMazaro&repo=LibertyBank&show_owner=true)](https://github.com/NayaneMazaro/LibertyBank)
 
