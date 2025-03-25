@@ -22,7 +22,6 @@
   <a href="https://github.com/NayaneMazaro/LibertyBank"><img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=NayaneMazaro&repo=LibertyBank&show_owner=true&theme=gotham"/></a>
   &nbsp;
   &nbsp;
-  &nbsp;
   <a href="https://github.com/NayaneMazaro/CandyPong"><img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=NayaneMazaro&repo=CandyPong&show_owner=true&theme=gotham"></a>
 </div>
 
@@ -32,7 +31,6 @@
 
 <div align="center">
   <a href="https://github.com/nayanemazaro"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nayanemazaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&card_width=350"/></a>
-  &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanemazaro&layout=compact&langs_count=8&theme=gotham&card_width=370"></a>
