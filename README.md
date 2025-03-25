@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá, me chamo Nayane, tenho 24 anos e sou formada em Ciência da Computação pela Universidade Anhembi Morumbi - Paulista.<br>
-  Atualmente estou expandindo os meus conhecimentos em Spring e Angular.
+  Atualmente estou expandindo os meus conhecimentos em Spring Boot e Angular.
 </p>
 
 <p align="left">
-  🎯 Conhecimentos: Python, Java, SQL, Spring, Angular.
+  🎯 Conhecimentos: Java, Python, C#, SQL, Spring Boot e Django.
 </p>
 
   💌 Por favor, encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações: ⤵️ 
