@@ -5,10 +5,6 @@
   Atualmente estou expandindo os meus conhecimentos em Spring Boot e Angular.
 </p>
 
-<p align="left">
-  🎯 Conhecimentos: Java, Python, C#, SQL, Spring Boot e Django.
-</p>
-
   💌 Por favor, encontre-me para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações: ⤵️ 
 
   <a href="https://www.linkedin.com/in/nayanemazaro/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
